@@ -20,10 +20,10 @@ p {
     padding-block: 10px;
     background-color: black;
     margin: 0;
-    display: flex;               /* coloca itens lado a lado */
-    align-items: center;         /* centraliza na vertical */
-    justify-content: flex-start;     /* centraliza tudo no meio */
-    gap: 10px;                   /* espaço entre ícone e texto */
+    display: flex;              
+    align-items: center;         
+    justify-content: flex-start;    
+    gap: 10px;                   
     padding: 10px;
 }
 #links a {
